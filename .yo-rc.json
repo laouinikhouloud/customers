@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "customers",
+    "packageName": "com.supinfo",
+    "packageFolder": "com/supinfo",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "protractor"
+    ],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.8.2",
+    "jwtSecretKey": "YzUzZWRjNzdlMWVjYTg4NjJiMWEwZjdkM2Q3MGUwYWJhMGUxMTg1ZjhkN2YzM2UzNzA5MTBlZDllMTM4Njk4NmY5NTZlZWM4OWQ0YjUzMmFjOTM2MmI0YTk2OTE1ZDNiNTNhZTYyMDc5OTc4ODJmZjk3ZDVmOTNjNWVhMGY4ODk=",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  }
+}
